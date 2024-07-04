@@ -26,9 +26,8 @@ body {
   .navi {
     background-color: #97b3d8;
     padding: 10px;
-    margin: 0px;
-    color: #d3e0205b;
     text-align: right;
+    display:flex;
   }
 
 
