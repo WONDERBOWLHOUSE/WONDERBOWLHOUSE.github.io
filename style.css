@@ -19,6 +19,9 @@ body {
 
   }
 
+  button:hover{color:#97D8C4
+   }
+
   .content {
     padding: 10px;
   }
@@ -34,16 +37,12 @@ body {
 
 
   h1 {
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap" rel="stylesheet">;
     text-align: center;
     color: #CE6A85;
     background-color: #97D8C4;
     font-size: 70px;
     font-family:"Permanent Marker", cursive;
-    font-weight: 400;
-  font-style: normal;
+    
   }
 
   p {
