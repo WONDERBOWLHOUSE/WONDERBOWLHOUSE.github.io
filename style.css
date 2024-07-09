@@ -2,7 +2,7 @@ body {
     background-color: #97D8C4;
     font-family: "Madimi One", sans-serif;
     padding: 10px;
-    margin: 0px;
+    margin: 0;
     color: #B33F62;
     text-align: left;
   }
@@ -36,7 +36,8 @@ body {
   h1 {
     text-align: center;
     color: #CE6A85;
-    background-color: #97D8C4
+    background-color: #97D8C4;
+    font-size: 70px;
   }
 
   p {
