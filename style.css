@@ -1,7 +1,7 @@
 body {
     background-color: #97D8C4;
     font-family: "Madimi One", sans-serif;
-    padding: 30px;
+    padding: 20px;
     margin: 0;
     color: #B33F62;
     text-align: left;
@@ -28,7 +28,7 @@ body {
     display:flex;
   }
 .leftcontainer{
-  padding:20px;
+  padding:30px;
 line-height:60px;
 }
   .navi {
