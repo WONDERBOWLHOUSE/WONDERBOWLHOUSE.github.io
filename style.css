@@ -26,7 +26,7 @@ body {
     padding: 10px;
     display:flex;
   }
-
+.leftcontainer{padding:20px}
   .navi {
     background-color: #97b3d8;
     padding: 10px;
