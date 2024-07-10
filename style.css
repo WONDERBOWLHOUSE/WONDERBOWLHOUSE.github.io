@@ -6,7 +6,15 @@ body {
     color: #B33F62;
     text-align: left;
   }
-
+.home{
+  display:flex;
+}
+.kundenmeinungen{
+  display:none;
+}
+.speisekarte{
+  display:none;
+}
   button {
     background: none;
     border: none;
