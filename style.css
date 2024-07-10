@@ -24,7 +24,7 @@ body {
    }
 
   .content {
-    padding: 30px;
+    
     display:flex;
   }
 .leftcontainer{
@@ -52,5 +52,6 @@ line-height:60px;
   }
 
   p {
-    font-family: Comic Sans MS
+    font-family: Comic Sans MS;
+    padding:30px
   }
